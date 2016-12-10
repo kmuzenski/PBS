@@ -7,7 +7,7 @@
 <body>
 <?php require_once('nav.php'); ?>
 
-
+<h1> Pauls Barber Shop </h1> 
 
 
 <br><br><br><br><br>

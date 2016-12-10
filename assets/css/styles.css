@@ -3,32 +3,32 @@ background-color: #FFFFFF;
 }
 
 @font-face {
-	font-family:pretty;
-	src: url(../fonts/pretty.ttf);
+	font-family:retro;
+	src: url(../fonts/retro.ttf);
 }
 
 h1 {
 	color:#2010a0;
-  font-family:pretty;
+  font-family:retro;
 }
 
 h2 {
 	color:#2010a0;
-	font-family:pretty;}
+	font-family:retro;}
 
 h3 {
 	color:#2010a0;
-	font-family:pretty;
+	font-family:retro;
 }
 
 a {
 	color:#2010a0;
-   font-family:pretty;
+   font-family:retro;
 }
 
 p {
 	color:#2010a0;
-   font-family:pretty;
+   font-family:retro;
    font-size: 30px; 
 }
 
