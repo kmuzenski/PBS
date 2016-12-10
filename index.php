@@ -9,22 +9,24 @@
 <br><br><br><br><br>
 
 <div class="container">
+<center>
 <div class="row">
 <div class="col-xs-12 col-md-12 col-lg-12">
-<center>
+
 <h1> Pauls Barber Shop </h1> <br>
-</center>
+
 </div>
 </div>
 <div class="row">
 <div class="col-xs-8 col-md-8 col-lg-8">
+
 <img src="assets/img/main.jpg">
 <br>
 </div>
 
 </div>
 <div class="row">
-<center>
+
 <p> 10529 W Forest Home Ave Hales Corners, WI 53132 </p>
 <br>
 <p> Locally owned. Call 414-388-6807 to book an appointment </p>
