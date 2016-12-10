@@ -3,7 +3,7 @@
 	<div class="container-fluid" id="navfluid">
     	<div class="navbar-header">
           
-		  <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navigationbar">
+		  <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar">
          	<span class="sr-only">Toggle navigation</span>
          	<span class="icon-bar"></span>
         </button>
@@ -13,7 +13,7 @@
      	</div>
 
          
-	 <div id="navigationbar" class="collapse navbar-collapse">
+	 <div id="navbar" class="collapse navbar-collapse">
           	
 		<ul class="nav navbar-nav">
 		
