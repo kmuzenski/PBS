@@ -1,9 +1,9 @@
-<nav class="navbar navbar-default navbar-fixed-top">
+<nav class="navbar navbar-default" role="navigation">
       	
-	<div class="container">
+	<div class="container-fluid" id="navfluid">
     	<div class="navbar-header">
           
-		<button type="button" class="navbar-toggle btn-custom" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+		  <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navigationbar">
          	<span class="sr-only">Toggle navigation</span>
          	<span class="icon-bar"></span>
         </button>
@@ -13,20 +13,18 @@
      	</div>
 
          
-	 <div id="navbar" class="collapse navbar-collapse">
+	 <div id="navigationbar" class="collapse navbar-collapse">
           	
 		<ul class="nav navbar-nav">
 		
 		<li><a  href="index.php">Home</a></li>
     <li><a  href="about.php">About</a></li>
     <li><a  href="contact.php">Contact</a></li>
-
+    </ul>
 
             					
        </div>
    </div>
-
-
 
 
 

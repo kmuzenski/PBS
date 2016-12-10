@@ -8,6 +8,7 @@
 <?php require_once('nav.php'); ?>
 <br><br><br><br><br>
 <center>
+	
 <h1> Pauls Barber Shop </h1> 
 <br>
 <img src="assets/img/main.jpg">
