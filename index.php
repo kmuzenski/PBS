@@ -17,14 +17,11 @@
 </div>
 </div>
 <div class="row">
-<div class="col-xs-3 col-md-3 col-lg-3">
-</div>
-<div class="col-xs-6 col-md-6 col-lg-6">
+<div class="col-xs-8 col-md-8 col-lg-8">
 <img src="assets/img/main.jpg">
 <br>
 </div>
-<div class="col-xs-3 col-md-3 col-lg-3">
-</div>
+
 </div>
 <div class="row">
 <center>
