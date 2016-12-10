@@ -1,0 +1,51 @@
+body {
+background-color: #000000;
+}
+
+@font-face {
+	font-family:pretty;
+	src: url(../fonts/pretty.ttf);
+}
+
+h1 {
+	color:#FFFFFF;
+  font-family:pretty;
+}
+
+h2 {
+	color:#FFFFFF;
+	font-family:pretty;}
+
+h3 {
+	color:#FFFFFF;
+	font-family:pretty;
+}
+
+a {
+	color:#FFFFFF;
+   font-family:pretty;
+}
+
+p {
+	color:#FFFFFF;
+   font-family:pretty;
+   font-size: 30px; 
+}
+
+img {
+    width: 100%;
+}
+
+
+.navbar {
+   background-color: transparent;
+   background: transparent;
+   border-color: transparent;
+}
+
+.navbar { 
+	color:#FFFFFF;
+}
+
+
+
