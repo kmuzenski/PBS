@@ -28,7 +28,7 @@
 
 </div>
 <div class="row">
-<p> Locally owned. Call 414-388-6807 to book an appointment </p>
+<p> Locally owned. Call (414)858-9090 to book an appointment </p>
 </center>
 </div>
 </div>
