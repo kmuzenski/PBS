@@ -17,7 +17,7 @@
 </div>
 <div class="row">
 <center>
-<p>Phone: (414)858-9090</p>
+<p>Phone: 414-858-9090</p>
 </center>
 </div>
 </div>
