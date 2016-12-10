@@ -1,5 +1,5 @@
 body {
-background-color: #000000;
+background-color: #FFFFFF;
 }
 
 @font-face {
@@ -8,32 +8,28 @@ background-color: #000000;
 }
 
 h1 {
-	color:#FFFFFF;
+	color:#2010a0;
   font-family:pretty;
 }
 
 h2 {
-	color:#FFFFFF;
+	color:#2010a0;
 	font-family:pretty;}
 
 h3 {
-	color:#FFFFFF;
+	color:#2010a0;
 	font-family:pretty;
 }
 
 a {
-	color:#FFFFFF;
+	color:#2010a0;
    font-family:pretty;
 }
 
 p {
-	color:#FFFFFF;
+	color:#2010a0;
    font-family:pretty;
    font-size: 30px; 
-}
-
-img {
-    width: 100%;
 }
 
 
@@ -44,7 +40,7 @@ img {
 }
 
 .navbar { 
-	color:#FFFFFF;
+	color:#2010a0;
 }
 
 
