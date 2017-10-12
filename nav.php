@@ -3,19 +3,19 @@
   
   <div class="col-xs-12 col-md-4 col-lg-4" id="navborder">
   <center>
-  <p><a href="index.php" id="mynav" title="home">Home</a></p>
+  <p><a href="index.php" class="mynav" title="home"></a></p>
   </center>
   </div>
   
   <div class="col-xs-12 col-md-4 col-lg-4" id="navborder" >
   <center>
-  <a href="about.php" title="gallery"><p class="mynav">About</p></a>
+  <a href="about.php" class="mynav" title="gallery">About</a>
   </center>
   </div>
 
   <div class="col-xs-12 col-md-4 col-lg-4" id="navborder" >
   <center>
-  <p><a href="contact.php" id="mynav" title="contact" id="mynav">Contact</a></p>
+  <a href="contact.php" class="mynav" title="contact" id="mynav">Contact</a>
   </center>
   </div>
 
