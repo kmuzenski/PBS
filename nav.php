@@ -9,7 +9,7 @@
   
   <div class="col-xs-12 col-md-4 col-lg-4" id="navborder" >
   <center>
-  <p><a href="about.php" id="mynav" title="gallery">About</a></p>
+  <a href="about.php" id="mynav" title="gallery">About</a>
   </center>
   </div>
 
