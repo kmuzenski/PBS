@@ -40,14 +40,19 @@ p {
 
 }
 
-.navbar {
-   background-color: transparent;
-   background: transparent;
-   border-color: transparent;
+#mynavb {
+	background-color:#2010a0; 
 }
 
-.navbar { 
-	color:#2010a0;
+#mynav {
+	font-color: white;
+	font-size: 24px;
+	font-family:retro;
+
+}
+
+#navborder {
+	border: 1px solid #FFFFFF;
 }
 
 

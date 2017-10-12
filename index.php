@@ -5,8 +5,6 @@
 <?php require_once('header.php'); ?>
 
 <body>
-<?php require_once('nav.php'); ?>
-<br><br><br><br><br>
 
 <div class="container">
 <center>
@@ -16,9 +14,12 @@
 <h1> Pauls Barber Shop </h1> <br>
 <p> 10529 W Forest Home Ave Hales Corners, WI 53132 </p>
 
+</div>
+</div>
 
-</div>
-</div>
+<?php require_once('nav.php'); ?>
+
+<br><br>
 <div class="row">
 
 <div class="col-xs-12 col-md-12 col-lg-12">
