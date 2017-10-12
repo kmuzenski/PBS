@@ -8,7 +8,7 @@
          	<span class="icon-bar"></span>
         </button>
          
-         <a class="navbar-brand" href="index.php"><img src="assets/img/logo.png" width="50" height="50"></a>		
+         <a class="navbar-brand" href="index.php"></a>		
      
      	</div>
 
@@ -17,9 +17,16 @@
           	
 		<ul class="nav navbar-nav">
 		
+    <div class="row">
+      <div class="col-xs-12 col-md-4 col-lg-4">
 		<li><a  href="index.php">Home</a></li>
+      </div>
+      <div class="col-xs-12 col-md-4 col-lg-4">
     <li><a  href="about.php">About</a></li>
+  </div>
+        <div class="col-xs-12 col-md-4 col-lg-4">
     <li><a  href="contact.php">Contact</a></li>
+  </div>
     </ul>
 
             					
