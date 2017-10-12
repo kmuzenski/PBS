@@ -27,6 +27,7 @@
         <div class="col-xs-12 col-md-4 col-lg-4">
     <li><a  href="contact.php">Contact</a></li>
   </div>
+</div>
     </ul>
 
             					
