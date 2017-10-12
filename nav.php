@@ -3,7 +3,7 @@
   
   <div class="col-xs-12 col-md-4 col-lg-4" id="navborder">
   <center>
-  <p><a href="index.php" class="mynav" title="home"></a></p>
+  <a href="index.php" class="mynav" title="home"></a>
   </center>
   </div>
   
