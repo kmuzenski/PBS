@@ -10,19 +10,18 @@
 
 <div class="container">
 <div class="row">
-<center>
-<h1>About Paul's Buisness</h1>
-</center>
+<div class="col-xs-2 col-md-2 col-lg-2">
+<img src="assets/img/logo.png" width="100%">
 </div>
-<div class="row">
-<div class="col-xs-4">
-<img src="assets/img/logo.png">
-</div>
-<div class="col-xs-8">
-<br><p> Men's professional haircuts. Click <a href="services.php">here</a> for pricing. Appointments only. Click<a href="contact.php"> here </a>to schedule an appointmnet. Locally owned since 2002. Previously located on Puetz road in Franklin, Wi. </p>
+<div class="col-xs-10 col-md-10 col-lg-10">
+<h1>Paul's Buisness</h1>
 </div>
 </div>
 </div>
+
+<br>
+<p> Men's professional haircuts. Appointments only. Click<a href="contact.php"> here </a>to schedule an appointmnet. Locally owned since 2002. Previously located on Puetz road in Franklin, Wi. </p>
+
 
 <br><br><br><br><br>
 <?php require_once('footer.php'); ?>
