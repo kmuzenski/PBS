@@ -10,7 +10,7 @@
 <center>
 <div class="row">
 <div class="col-xs-2 col-md-2 col-lg-2">
-<img src="assets/img/logo.png">
+<img src="assets/img/logo.png" width="100%">
 </div>
 <div class="col-xs-10 col-md-10 col-lg-10">
 
