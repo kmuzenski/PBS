@@ -9,10 +9,10 @@
 <div class="container">
 <center>
 <div class="row">
-<div class="col-xs-3 col-md-3 col-log-3">
+<div class="col-xs-2 col-md-2 col-lg-2">
 <img src="assets/img/logo.png" width="50px">
 </div>
-<div class="col-xs-9 col-md-9 col-lg-9">
+<div class="col-xs-10 col-md-10 col-lg-10">
 
 <h1> Pauls Barber Shop </h1>
 <p> 10529 W Forest Home Ave Hales Corners, WI 53132 </p>
