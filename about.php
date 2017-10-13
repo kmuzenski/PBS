@@ -13,8 +13,10 @@
 <div class="col-xs-2 col-md-2 col-lg-2">
 <img src="assets/img/logo.png" width="75%">
 </div>
-<div class="col-xs-10 col-md-10 col-lg-10">
+<div class="col-xs-8 col-md-8 col-lg-8">
 <h1><center>Paul's <br> Buisness</center></h1>
+</div>
+<div class="col-xs-2 col-md-2 col-lg-2">
 </div>
 </div>
 </div>
