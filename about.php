@@ -14,7 +14,7 @@
 <img src="assets/img/logo.png" width="75%">
 </div>
 <div class="col-xs-10 col-md-10 col-lg-10">
-<h1>Paul's <br> Buisness</h1>
+<h1><center>Paul's <br> Buisness</center></h1>
 </div>
 </div>
 </div>
