@@ -9,9 +9,12 @@
 <div class="container">
 <center>
 <div class="row">
-<div class="col-xs-12 col-md-12 col-lg-12">
+<div class="col-xs-3 col-md-3 col-log-3">
+<img src="logo.png">
+</div>
+<div class="col-xs-9 col-md-9 col-lg-9">
 
-<h1> Pauls Barber Shop </h1> <br>
+<h1> Pauls Barber Shop </h1>
 <p> 10529 W Forest Home Ave Hales Corners, WI 53132 </p>
 
 </div>
@@ -19,7 +22,7 @@
 
 <?php require_once('nav.php'); ?>
 
-<br><br>
+<br>
 <div class="row">
 
 <div class="col-xs-12 col-md-12 col-lg-12">
@@ -29,7 +32,7 @@
 
 </div>
 <div class="row">
-<p> Locally owned. Call 414-388-6807 to book an appointment </p>
+<p> Call 414-858-9090 to book an appointment with Paul today!</p>
 </center>
 </div>
 </div>
